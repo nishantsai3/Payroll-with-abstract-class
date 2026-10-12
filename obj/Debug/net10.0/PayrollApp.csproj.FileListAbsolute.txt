@@ -1,0 +1,14 @@
+C:\Users\nishant.vemishetti\OneDrive - Acuvate Software Private Limited\Documents\Coding@Acuvate\Oct10\PayrollApp\bin\Debug\net10.0\PayrollApp.exe
+C:\Users\nishant.vemishetti\OneDrive - Acuvate Software Private Limited\Documents\Coding@Acuvate\Oct10\PayrollApp\bin\Debug\net10.0\PayrollApp.deps.json
+C:\Users\nishant.vemishetti\OneDrive - Acuvate Software Private Limited\Documents\Coding@Acuvate\Oct10\PayrollApp\bin\Debug\net10.0\PayrollApp.runtimeconfig.json
+C:\Users\nishant.vemishetti\OneDrive - Acuvate Software Private Limited\Documents\Coding@Acuvate\Oct10\PayrollApp\bin\Debug\net10.0\PayrollApp.dll
+C:\Users\nishant.vemishetti\OneDrive - Acuvate Software Private Limited\Documents\Coding@Acuvate\Oct10\PayrollApp\bin\Debug\net10.0\PayrollApp.pdb
+C:\Users\nishant.vemishetti\OneDrive - Acuvate Software Private Limited\Documents\Coding@Acuvate\Oct10\PayrollApp\obj\Debug\net10.0\PayrollApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nishant.vemishetti\OneDrive - Acuvate Software Private Limited\Documents\Coding@Acuvate\Oct10\PayrollApp\obj\Debug\net10.0\PayrollApp.AssemblyInfoInputs.cache
+C:\Users\nishant.vemishetti\OneDrive - Acuvate Software Private Limited\Documents\Coding@Acuvate\Oct10\PayrollApp\obj\Debug\net10.0\PayrollApp.AssemblyInfo.cs
+C:\Users\nishant.vemishetti\OneDrive - Acuvate Software Private Limited\Documents\Coding@Acuvate\Oct10\PayrollApp\obj\Debug\net10.0\PayrollApp.csproj.CoreCompileInputs.cache
+C:\Users\nishant.vemishetti\OneDrive - Acuvate Software Private Limited\Documents\Coding@Acuvate\Oct10\PayrollApp\obj\Debug\net10.0\PayrollApp.dll
+C:\Users\nishant.vemishetti\OneDrive - Acuvate Software Private Limited\Documents\Coding@Acuvate\Oct10\PayrollApp\obj\Debug\net10.0\refint\PayrollApp.dll
+C:\Users\nishant.vemishetti\OneDrive - Acuvate Software Private Limited\Documents\Coding@Acuvate\Oct10\PayrollApp\obj\Debug\net10.0\PayrollApp.pdb
+C:\Users\nishant.vemishetti\OneDrive - Acuvate Software Private Limited\Documents\Coding@Acuvate\Oct10\PayrollApp\obj\Debug\net10.0\PayrollApp.genruntimeconfig.cache
+C:\Users\nishant.vemishetti\OneDrive - Acuvate Software Private Limited\Documents\Coding@Acuvate\Oct10\PayrollApp\obj\Debug\net10.0\ref\PayrollApp.dll
